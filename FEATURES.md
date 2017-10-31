@@ -8,7 +8,7 @@
   - SAML
   - LDAP
   - CAS (1.0, 2.0 + attribute sync)
-  - Facebook, Github, Google, etc.
+  - Facebook, Github, Google talk, etc.
 - I18N: More than 30 languages so far
 - File Uploading
   - Drag-and-drop
